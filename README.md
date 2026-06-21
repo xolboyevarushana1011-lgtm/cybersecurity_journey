@@ -111,3 +111,12 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 - Module 12: Gateways to Other Networks
 - Module 13: The ARP Process
 - Module 14: Routing Between Networks
+
+-  **Date:** June 21, 2026
+
+### ✅ Module Completed (100%)
+- **Module 12: *Gateways to Other Networks*
+  - 12.0 Introduction
+  - 12.1 Network Boundaries
+  - 12.2 Network Adress Translation
+  - 12.3 Gateways to Other Networks Summary
