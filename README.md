@@ -120,3 +120,24 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
   - 12.1 Network Boundaries
   - 12.2 Network Adress Translation
   - 12.3 Gateways to Other Networks Summary
+  - ## 📅 July 4, 2026 — Back to Learning!
+
+**Note:** Took a break (June 19 – July 3) to focus on teaching students for their exams.
+
+### ✅ Completed Today
+- Module 12: Gateways to Other Networks — 100%
+- Module 13: The ARP Process — 100%
+- Module 14: Routing Between Networks — 100%
+
+### 📚 What I Learned
+- **Gateways & NAT** — How routers connect different networks and translate IP addresses
+- **ARP Process** — How devices find each other's MAC address on a local network
+- **Routing Tables** — How routers decide where to send data packets
+- **LAN Creation** — Setting up and configuring a local area network
+
+### 📝 Results
+| Assessment | Score |
+|-----------|-------|
+| ARP Process Quiz | 75% |
+| Routing Between Networks Quiz | 75% |
+| Checkpoint Exam  | **90%** ✅ |
