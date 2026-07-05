@@ -148,16 +148,17 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 
 ## ✅ Completed
 
-### 1. Create a LAN
-- Score: 13/13 — all cabling, power, and addressing checks passed.
-
-### 2. Identify MAC and IP Addresses (Task 5)
+### 1. Identify MAC and IP Addresses (labassignment5)
 - Part 1: traced local communication (172.16.31.3 ↔ 172.16.31.2), recorded MAC/IP at each hop.
 - Part 2: traced remote communication (172.16.31.3 → 10.10.10.2) through Router, Switches, and Access Point for both echo-request and echo-reply.
 - Answered all 15 reflection questions.
 
-### 3. Observe Traffic Flow in a Routed Network (~83%)
+### 2. Observe Traffic Flow in a Routed Network (labassignment6 ~83%)
 - Part 1: observed ARP broadcast flooding in unrouted LAN.
 - Part 2: re-cabled switches to Edge router; Finance = 192.168.2.0/24, Sales = 192.168.3.0/24.
 - Part 3: confirmed ARP traffic containment after routing.
+
+ ### 3. Create a LAN(labassignment7)
+- Score: 13/13 — all cabling, power, and addressing checks passed.
+
 
