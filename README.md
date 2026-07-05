@@ -141,6 +141,9 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 | ARP Process Quiz | 75% |
 | Routing Between Networks Quiz | 75% |
 | Checkpoint Exam  | **90%** ✅ |
+
+
+
 # Cisco Networking Labs — Daily Log (July 5, 2026)
 
 ## ✅ Completed
@@ -152,7 +155,6 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 - Part 1: traced local communication (172.16.31.3 ↔ 172.16.31.2), recorded MAC/IP at each hop.
 - Part 2: traced remote communication (172.16.31.3 → 10.10.10.2) through Router, Switches, and Access Point for both echo-request and echo-reply.
 - Answered all 15 reflection questions.
-
 
 ### 3. Observe Traffic Flow in a Routed Network (~83%)
 - Part 1: observed ARP broadcast flooding in unrouted LAN.
