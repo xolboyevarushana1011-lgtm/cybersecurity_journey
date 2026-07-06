@@ -160,5 +160,33 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 
  ### 3. Create a LAN(labassignment7)
 - Score: 13/13 — all cabling, power, and addressing checks passed.
+## 📚 Cisco Networking Academy — Networking Basics
 
+### Day Log: July 6, 2026
+
+| Module | Topic | Quiz Score |
+|--------|-------|------------|
+| Module 15 | TCP and UDP | 85% |
+| Module 16 | Application Layer Services | 90% |
+
+### Module 15: TCP and UDP
+- 15.0 Introduction
+- 15.1 TCP and UDP
+- 15.2 Port Numbers
+- 15.3 TCP and UDP Summary
+
+### Module 16: Application Layer Services
+- 16.0 Introduction
+- 16.1 The Client-Server Relationship
+- 16.2 Network Application Services
+- 16.3 Domain Name System
+- 16.4 Web Clients and Servers
+- 16.5 FTP Clients and Servers
+- 16.6 Virtual Terminals
+- 16.7 Email and Messaging
+- 16.8 Application Layer Services Summary
+
+### Notes
+- Completed both module quizzes today.
+- Next: review weak areas before moving to Module 17.
 
