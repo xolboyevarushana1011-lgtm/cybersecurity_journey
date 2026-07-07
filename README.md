@@ -167,7 +167,7 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 | Module | Topic | Quiz Score |
 |--------|-------|------------|
 | Module 15 | TCP and UDP | 85% |
-| Module 16 | Application Layer Services | 90% |
+| Module 16 | Application Layer Services | 100%|
 
 ### Module 15: TCP and UDP
 - 15.0 Introduction
@@ -189,4 +189,36 @@ Today I completed Modules 8–11, covering the Internet Protocol, IPv4 addressin
 ### Notes
 - Completed both module quizzes today.
 - Next: review weak areas before moving to Module 17.
+- # 📡 Networking Basics — Cisco Networking Academy
+
+Progress log for the **Cisco Networking Academy: Networking Basics** course.
+
+## ✅ Day Log 7 July,2026
+
+
+- Completed **Module 17: Network Testing Utilities** — 100%
+  - 17.0 Introduction 
+  - 17.1 Troubleshooting Commands 
+  - 17.2 Network Testing Utilities Summary
+    - 17.2.3 Network Testing Utilities Quiz — **100%**
+- Passed **Checkpoint Exam: Protocols for Specific Tasks** — **90%** ✅
+  - Module: TCP and UDP — 66.7%
+  - Module: Application Layer Services — 100%
+  - Module: Network Testing Utilities — 100%
+
+📌 Course outline status: all modules up through this checkpoint exam show **100% completion**.
+
+## 🎯 Next Steps (Tomorrow's Plan)
+
+- [ ] Complete remaining **lab assignments**
+- [ ] Review weak area: **TCP and UDP module** (scored 66.7% on checkpoint)
+- [ ] Take the **Networking Basics Course Final Exam**
+
+## 🧠 Notes
+
+- Checkpoint exams passed: **Communication Between Networks** (100%), **Protocols for Specific Tasks** (90%)
+- Focus area before the final exam: TCP/UDP concepts (segmentation, port numbers, three-way handshake, UDP vs TCP use cases)
+
+---
+*Course: Cisco Networking Academy — Networking Basics*
 
