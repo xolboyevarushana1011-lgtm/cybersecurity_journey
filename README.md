@@ -1,4 +1,4 @@
-# cybersecurity_journey_as_a_biginner
+# cybersecurity_journey_as_a_beginner
 My journey learning cybersecurity from scratch - notes, CTF write-ups, and lab projects.
 # 🌐 Cisco Networking Basics — Daily Progress
 **Date:**June 18, 2026 | **Platform:** Cisco NetAcad
