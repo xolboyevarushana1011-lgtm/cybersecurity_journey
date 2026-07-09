@@ -1,4 +1,4 @@
-# cybersecurity_journey
+# cybersecurity_journey_as_a_biginner
 My journey learning cybersecurity from scratch - notes, CTF write-ups, and lab projects.
 # 🌐 Cisco Networking Basics — Daily Progress
 **Date:**June 18, 2026 | **Platform:** Cisco NetAcad
@@ -219,6 +219,8 @@ Progress log for the **Cisco Networking Academy: Networking Basics** course.
 - Checkpoint exams passed: **Communication Between Networks** (100%), **Protocols for Specific Tasks** (90%)
 - Focus area before the final exam: TCP/UDP concepts (segmentation, port numbers, three-way handshake, UDP vs TCP use cases)
 
+finished 8 July
+Final exam - 90%
 ---
 *Course: Cisco Networking Academy — Networking Basics*
 
