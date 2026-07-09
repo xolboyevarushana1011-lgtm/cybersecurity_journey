@@ -223,4 +223,35 @@ finished 8 July
 Final exam - 90%
 ---
 *Course: Cisco Networking Academy — Networking Basics*
+# 🔐 My Cybersecurity Learning Journey
 
+Welcome! I'm currently learning cybersecurity fundamentals through **TryHackMe**, documenting my progress here.
+
+## 📌 Current Progress
+
+- ✅ Completed: **Search Skills** room
+- ✅ Completed: **Linux Fundamentals** (earned badge 🐧)
+- 🔄 In Progress: Continuing through Pre Security path
+- 📚 Path: Pre Security → Cyber Security Introduction
+
+## 🔎 Search Skills — What I Learned First
+
+This room covers how to effectively search for information used in both offensive and defensive cyber security:
+
+- **Shodan** — searching internet-connected devices
+- **VirusTotal** — analyzing files/URLs for malware
+- **CVE Databases** — finding known vulnerabilities
+- **Technical Documentation (man pages)** — reading tool documentation
+- **GitHub** — finding tools, exploits, and resources
+
+## 🐧 Linux Fundamentals — What I Learned Next
+
+- Basic Linux commands (`cat`, `ls`, `cd`, `pwd`, etc.)
+- File system navigation and structure
+- File permissions basics
+- Using the terminal effectively
+## 📫 Connect with me
+
+- TryHackMe: *[r.xolboyeva]*
+  ---
+*Learning cybersecurity one room at a time 🚀*
