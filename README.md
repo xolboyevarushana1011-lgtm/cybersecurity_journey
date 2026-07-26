@@ -225,33 +225,84 @@ Final exam - 90%
 *Course: Cisco Networking Academy — Networking Basics*
 # 🔐 My Cybersecurity Learning Journey
 
-Welcome! I'm currently learning cybersecurity fundamentals through **TryHackMe**, documenting my progress here.
+# TryHackMe — Pre Security Learning Path
 
-## 📌 Current Progress
+## Certificate Summary
 
-- ✅ Completed: **Search Skills** room
-- ✅ Completed: **Linux Fundamentals** (earned badge 🐧)
-- 🔄 In Progress: Continuing through Pre Security path
-- 📚 Path: Pre Security → Cyber Security Introduction
+| | |
+|---|---|
+| **Completed on** | July 25, 2026 |
+| **Time invested** | ~2 weeks (studied part-time, module by module) |
+| **Course duration** | 19 hours 10 minutes |
+| **Modules completed** | 7 modules |
+| **Hands-on labs** | 31 labs |
+| **Difficulty** | Easy (beginner) |
+| **Skills gained** | General Cyber, Segment 1, Purple, Web |
 
-## 🔎 Search Skills — What I Learned First
+> I'm currently working toward a **SOC (Security Operations Center) Analyst** role. Pre Security was my starting point — it built the foundational knowledge of computers, networks, and the web that every SOC analyst needs before diving into log analysis, SIEM tools, and incident detection.
 
-This room covers how to effectively search for information used in both offensive and defensive cyber security:
+---
 
-- **Shodan** — searching internet-connected devices
-- **VirusTotal** — analyzing files/URLs for malware
-- **CVE Databases** — finding known vulnerabilities
-- **Technical Documentation (man pages)** — reading tool documentation
-- **GitHub** — finding tools, exploits, and resources
+## Modules & Rooms Completed
 
-## 🐧 Linux Fundamentals — What I Learned Next
+### Module 1 — Introduction to Cyber Security
+- **Offensive Security Intro** — explored the hacker mindset and how attackers think
+- **Defensive Security Intro** — explored how defenders protect infrastructure
+- **Careers in Cyber** — overview of cybersecurity career paths (SOC, Pentesting, GRC, etc.)
 
-- Basic Linux commands (`cat`, `ls`, `cd`, `pwd`, etc.)
-- File system navigation and structure
-- File permissions basics
-- Using the terminal effectively
-## 📫 Connect with me
+### Module 2 — Computer Types
+- **Computer Types** — differences between desktops, servers, embedded systems
+- **Inside a Computer System** — CPU, RAM, storage, motherboard fundamentals
+- **Client-Server Basics** — how clients and servers communicate
+- **Virtualisation Basics** — what VMs are and why they matter in security
+- **Cloud Computing Fundamentals** — intro to cloud infrastructure concepts
 
-- TryHackMe: *[r.xolboyeva]*
-  ---
-*Learning cybersecurity one room at a time 🚀*
+### Module 3 — Operating Systems Basics
+- **Operating Systems: Introduction** — what an OS does and why it matters
+- **Windows Basics** — navigating and understanding the Windows environment
+- **Linux CLI Basics** — first hands-on experience with the Linux terminal
+- **Windows CLI Basics** — Command Prompt / PowerShell fundamentals
+- **Operating System Security** — permissions, users, and OS-level protections
+
+### Module 4 — Software Basics
+- **Data Representation** — binary, hex, and how computers store data
+- **Data Encoding** — encoding vs encryption, common encoding schemes
+- **Python: Simple Demo** — first exposure to scripting logic in Python
+- **JavaScript: Simple Demo** — basic understanding of client-side scripting
+- **Database SQL Basics** — intro to databases and simple SQL queries
+
+### Module 5 — Network Fundamentals
+- **What is Networking?** — core networking concepts
+- **Intro to LAN** — local area network basics
+- **OSI Model** — the 7 layers and how data moves through a network
+- **Packets & Frames** — how data is broken down and transmitted
+- **Extending Your Network** — routers, firewalls, and network segmentation
+
+### Module 6 — How The Web Works
+- **DNS in Detail** — how domain names resolve to IP addresses
+- **HTTP in Detail** — structure of HTTP requests/responses, headers, status codes
+- **How Websites Work** — client-server interaction for web pages
+- **Putting It All Together** — full picture of what happens when you visit a website
+
+### Module 7 — Attacks and Defenses
+- **The CIA Triad** — Confidentiality, Integrity, Availability as the core of security thinking
+- **Cryptography Concepts** — encryption, hashing, and everyday cryptographic use cases
+- **Become a Hacker** — legally exploiting a vulnerable web app to understand offensive security
+- **Become a Defender** — using defensive techniques to protect systems from attacks
+
+---
+
+## Key Takeaways
+
+- Built a solid foundation in **networking** (OSI model, TCP/IP, DNS, packets)
+- Understood **how the web works end-to-end**, including where attacks can occur
+- Got comfortable with **both Linux and Windows command lines**
+- Learned the **CIA Triad** and core cryptography concepts that underpin all security work
+- Practiced thinking from **both an attacker's and a defender's perspective** — a mindset that's core to SOC work
+- Completed 31 hands-on labs reinforcing theory with real practice
+
+---
+
+## Current Focus: SOC Track
+
+I'm now progressing toward becoming a **SOC Analyst**, :
